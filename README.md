@@ -83,8 +83,8 @@ python temp/yolo.py
 python temp/objectdetection.py
 ```
 # 📸 Screenshots
-Web Interface	Detection Output
-	
+Web Interface and Detection Output
+(\Outputs\Screenshot%20(78).png)
 (Update paths if different in your repo)
 
 # 🎯 Future Enhancements
