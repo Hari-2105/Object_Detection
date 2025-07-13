@@ -13,32 +13,6 @@ This project is a **Flask-based real-time object detection system** using **YOLO
 - 🕹️ Camera control: rotate, switch, flashlight
 - 🧪 Additional CLI testing scripts included for model verification
 
----
-
-## 🗂️ Project Structure
-
-Object_Detection/
-│
-├── webhosting.py # 🔥 Flask entry point
-├── vediofetching.py # Basic IP cam reader
-├── templates/
-│ └── index.html # 🌐 Web UI
-├── utils/
-│ └── coco.txt # 🏷️ Class names (COCO 80)
-├── weights/
-│ ├── yolov8n.pt # YOLOv8 detection model
-
-├── temp/
-│ ├── yolo.py # CLI-based YOLOv8 segmentation + tracking
-│ ├── yolov1.py # YOLOv8 webcam detection
-│ ├── objectdetection.py # YOLOv5 OpenCV DNN fallback
-└── requirements.txt # 📦 Python dependencies
-
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 Getting Started
 
