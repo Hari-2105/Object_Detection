@@ -84,8 +84,8 @@ python temp/objectdetection.py
 ```
 # 📸 Screenshots
 Web Interface and Detection Output
-(\Outputs\Screenshot%20(78).png)
-(Update paths if different in your repo)
+![Object_detection_output](\Outputs\Screenshot%20(78).png)
+
 
 # 🎯 Future Enhancements
 - 📲 Mobile-friendly UI
@@ -96,5 +96,5 @@ Web Interface and Detection Output
 
 - 🌐 Cloud deployment (AWS/GCP/Azure)
 
-🙋 Author
+# 🙋 Author
 👨‍💻 Developed by Harish V
