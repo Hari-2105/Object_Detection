@@ -47,7 +47,8 @@ Edit
 ```
 git clone https://github.com/Hari-2105/Object_Detection.git
 cd Object_Detection
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 ### 📦 Requirements
 Make sure the following are installed:
@@ -64,23 +65,14 @@ numpy
 
 requests
 
-You can install them with:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-💻 Running the App
-bash
-Copy
-Edit
+# 💻 Running the App
+```
 python webhost.py
+```
 Then open http://127.0.0.1:5000 in your browser.
 
-🧪 Sample CLI Detections
-bash
-Copy
-Edit
+### 🧪 Sample CLI Detections
+```
 # YOLOv8 object detection via webcam
 python temp/yolov1.py
 
@@ -89,20 +81,20 @@ python temp/yolo.py
 
 # YOLOv5 DNN fallback detector
 python temp/objectdetection.py
-📸 Screenshots
+```
+# 📸 Screenshots
 Web Interface	Detection Output
 	
-
 (Update paths if different in your repo)
 
-🎯 Future Enhancements
-📲 Mobile-friendly UI
+# 🎯 Future Enhancements
+- 📲 Mobile-friendly UI
 
-🧪 Custom object class training support
+- 🧪 Custom object class training support
 
-🧠 Real-time event logging and analytics
+- 🧠 Real-time event logging and analytics
 
-🌐 Cloud deployment (AWS/GCP/Azure)
+- 🌐 Cloud deployment (AWS/GCP/Azure)
 
 🙋 Author
 👨‍💻 Developed by Harish V
