@@ -83,8 +83,8 @@ python temp/yolo.py
 python temp/objectdetection.py
 ```
 # 📸 Screenshots
-|Web Interface and Detection Output|
-|![Object_detection_output](Object_Detection/Outputs/Screenshot%20(78).png)|
+| Web Interface and Detection Output |
+| ![Object_detection_output](Object_Detection/Outputs/Screenshot%20(78).png) |
 
 
 # 🎯 Future Enhancements
