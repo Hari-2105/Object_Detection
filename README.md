@@ -85,7 +85,8 @@ python temp/objectdetection.py
 # 📸 Screenshots
 | Web Interface and Detection Output |
 |------------------------------------|
-| ![Object_detection_output] (Outputs/Screenshot(78).png) |
+| ![Detection Output](https://github.com/Hari-2105/Object_Detection/blob/main/Outputs/Screenshot%20(78).png?raw=true)
+ |
 
 
 # 🎯 Future Enhancements
